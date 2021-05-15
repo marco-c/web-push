@@ -45,7 +45,7 @@
     "eslint": "7.24.0",
     "eslint-config-airbnb": "18.2.1",
     "eslint-plugin-import": "2.22.1",
-    "geckodriver": "1.22.3",
+    "geckodriver": "2.0.0",
     "istanbul": "0.4.5",
     "mkdirp": "1.0.4",
     "mocha": "8.3.2",
